@@ -29,6 +29,7 @@ Autonomous_Drone_Project/
 Install the required Python packages before running the project.
 
 pip3 install opencv-contrib-python pymavlink numpy
+python -m pip install dronekit
 
 Verify Installation
 python3 -c "import cv2, numpy, pymavlink; print('Installation Successful')"
