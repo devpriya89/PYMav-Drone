@@ -50,10 +50,6 @@ Available options:
 aruco.DICT_4X4_50
 aruco.DICT_4X4_100
 aruco.DICT_4X4_250
-aruco.DICT_4X4_1000
-aruco.DICT_5X5_1000
-aruco.DICT_6X6_1000
-aruco.DICT_7X7_1000
 
 
 ### Change Marker Size
